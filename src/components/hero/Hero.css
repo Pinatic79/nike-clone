@@ -26,6 +26,11 @@ p {
   font-size: 24px;
   font-weight: 500;
   cursor: pointer;
+  transition: 0.3s ease;
+}
+.shop-btn:hover {
+  scale: 1.1;
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
 }
 .category-btn {
   color: rgb(103, 102, 102);
@@ -35,7 +40,13 @@ p {
   font-size: 24px;
   font-weight: 500;
   cursor: pointer;
+  transition: 0.3s ease;
+}
+.category-btn:hover {
+  scale: 1.1;
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
 }
 .thirdparty-store-logo {
   margin-right: 16px;
+  transition: 0.3s ease;
 }

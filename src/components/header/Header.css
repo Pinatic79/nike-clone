@@ -42,7 +42,6 @@ nav ul {
   justify-content: center;
   transition: 0.15s;
 }
-#login-btn:hover {
-  box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
-  scale: 1.05;
+.login-btn:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
