@@ -13,7 +13,7 @@ const Header = () => {
           <li className="nav-items">ABOUT</li>
           <li className="nav-items">CONTACT</li>
         </ul>
-        <button>Login</button>
+        <button className="login-btn">Login</button>
       </nav>
     </header>
   );
